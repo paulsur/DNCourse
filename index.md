@@ -1,6 +1,6 @@
 ---
 layout: index
-published: true
+published: false
 ---
 
 Home Page of the Digital Nomad Course for CS6460. Include here a video explaining the purpose of the course.
