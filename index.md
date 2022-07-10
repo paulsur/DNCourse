@@ -1,6 +1,6 @@
 ---
 layout: index
-published: false
+published: true
 ---
 
 Home Page of the Digital Nomad Course for CS6460. This will include an introduction to the course in the final version. For now, below are the milestone videos:
