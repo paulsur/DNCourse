@@ -7,7 +7,7 @@ Home Page of the Digital Nomad Course for CS6460. This will include an introduct
 
 #### Milestone 2
 
-**TBU**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yUITOX3AfCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Milestone 1
 
