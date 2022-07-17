@@ -1,7 +1,7 @@
 ---
-title: Importance of Interacting on the Road
+title: Digital Nomad Loneliness
 ---
 
-## Importance of Interacting on the Road
+## Digital Nomad Loneliness
 
 Slide on this topic
