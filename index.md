@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-Home Page of the Digital Nomad Course for CS6460. This will include an introduction to the course in the final version. For now, below are the milestone videos:
+Home Page of the Digital Nomad Course for CS6460. For now, below are the milestone videos:
 
 #### Milestone 2
 
