@@ -1,7 +1,7 @@
 ---
-title: Digital Nomad Story #1, Continued
+title: Real Life Example, Continued
 ---
 
-## Digital Nomad Story #1, Continued
+## Real Life Example, Continued
 
 Slide on this topic
