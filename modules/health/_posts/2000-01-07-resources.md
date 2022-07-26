@@ -6,7 +6,7 @@ title: Health Resources
 
 ## Health Resources
 
-Below you can find some good resources for each of the key topics in this brief module
+Below you can find some good resources to begin learning about the topics in this module.
 
 ### Schedules and Organization
 
