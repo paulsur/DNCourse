@@ -1,7 +1,7 @@
 ---
-title: Digital Nomad Story #1, Continued
+title: Real Life Story, Continued
 ---
 
-## Digital Nomad Story #1, Continued
+## Real Life Story, Continued
 
-Slide on this topic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_h9B3MHkPSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
