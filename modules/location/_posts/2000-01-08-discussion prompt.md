@@ -10,8 +10,10 @@ title: Discussion Prompt and Action Steps
 
 - Write down your top 5 leading factors for where you would like to work as a DN
 - Write down places where you would like to visit as a DN
+- Write down how do you think of security when traveling?
 
 ### Action Steps
 - Do some research with the top 5 leading factors you wrote down to see how each of these places ranks
 - Did any of the places you chose change? Did you add any new places?
+- What items would you include in your backup plan?
 

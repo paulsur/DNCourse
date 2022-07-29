@@ -1,7 +1,7 @@
 ---
-title: Leading Factors for Digital Nomads
+title: Leading Location Factors for Digital Nomads
 ---
 
-## Leading Factors for Digital Nomads
+## Leading Location Factors for Digital Nomads
 
 Slide on this topic
