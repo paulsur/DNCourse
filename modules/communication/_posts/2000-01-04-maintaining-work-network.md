@@ -1,7 +1,7 @@
 ---
-title: Maintaining your work network
+title: Maintaining Your Work Network
 ---
 
-## Maintaining your work network
+## Maintaining Your Work Network
 
-Slide on this topic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYhePQ087U0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

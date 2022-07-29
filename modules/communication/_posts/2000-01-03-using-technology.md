@@ -1,7 +1,7 @@
 ---
-title: Using technology to help stay in touch
+title: Using Technology to Help Stay in Touch
 ---
 
-## Using technology to help stay in touch
+## Using Technology to Help Stay in Touch
 
-Slide on this topic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPQtrkbiCJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
